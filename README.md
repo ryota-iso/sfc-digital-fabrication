@@ -16,7 +16,4 @@
 |[week3 Gyroid](./assets/week3/)|![ジャイロイドで印刷した鉢](./assets/week3/week3.png) ![スライサーによる印刷プレビュー](./assets/week3/week3_2.png)|
 |[week4 テクスチャによる積層面の隠蔽](./assets//week4/)|![ファジースキンを適用した鉢](./assets/week4/week4.png)|
 |[week5 太ノズルによる印刷](./assets/week5/) |![1mmノズルにより印刷した鉢](./assets//week5/week5.png)|
-|[week7 最終発表](./assets/week7/) |![押し出し1.8mmの鉢](./assets/week7/week7.png)![1mm印刷の鉢を宙につるしている](./assets//week7/week7_2.png)![1mm印刷した鉢の外観](./assets/week7/week7_3.png)![week0 ~ week7までの鉢を並べて展示](./assets/week7/week7_4.png)|
-
-## その他
-[Fabble](https://fabble.cc/ryota/digital-fab)
+|[week7 最終発表](./assets/week7/) |![押し出し1.8mmの鉢](./assets/week7/week7.png)![1mm印刷した鉢の外観](./assets/week7/week7_3.png)![week0 ~ week7までの鉢を並べて展示](./assets/week7/week7_4.png)|
